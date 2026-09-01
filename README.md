@@ -7,6 +7,7 @@ Je travaille sur des données appliquées aux politiques publiques, notamment da
 R, Python, SQL, méthodes causales (différence en différences, appariement exact grossier, event study).
 
 #Projets
+
 -[portfolio-handicap-emploi](https://github.com/RaphaelData/portfolio-handicap-emploi), une analyse causale de l'effet du handicap sur l'emploi et le salaire, à partir des données de l'Enquête Emploi en Continu de l'INSEE.
 
 -Risques-psychosociaux-travail, une analyse des déterminants socio-économiques et professionnels de la détresse psychologique au travail, à partir de l'enquête Conditions de Travail et Risques Psychosociaux (DARES, INSEE).
