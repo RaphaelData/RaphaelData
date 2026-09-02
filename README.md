@@ -1,7 +1,7 @@
 
 ### Salut, moi c'est Raphael
 
-Je travaille sur des données appliquées aux politiques publiques, notamment dans les transports et le social. Actuellement chez Île-de-France Mobilités, je traite des données pour éclairer des décisions de politique de transport. Je construis aussi des projets personnels qui vont du nettoyage de données brutes jusqu'à l'évaluation causale de politiques publiques, avec un objectif simple : produire des résultats exploitables pour la décision, pas seulement des modèles.
+Je suis économiste de formation, spécialisé en économie de la santé, et je travaille sur l'évaluation de politiques publiques par la donnée. J'ai une expérience actuelle chez Île-de-France Mobilités où je traite des données pour éclairer des décisions de politique de transport, ce qui m'a permis de renforcer mes compétences en traitement et analyse de données à grande échelle. En parallèle, je construis des projets personnels qui vont du nettoyage de données brutes jusqu'à l'évaluation causale de politiques publiques (santé, emploi, social), avec un objectif simple : produire des résultats exploitables pour la décision, pas seulement des modèles.
 
 #Stack
 R, Python, SQL, méthodes causales (différence en différences, appariement exact grossier, event study).
