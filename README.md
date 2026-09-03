@@ -8,9 +8,11 @@ R, Python, SQL, méthodes causales (différence en différences, appariement exa
 
 #Projets
 
--[portfolio-handicap-emploi](https://github.com/RaphaelData/portfolio-handicap-emploi), une analyse causale de l'effet du handicap sur l'emploi et le salaire, à partir des données de l'Enquête Emploi en Continu de l'INSEE.
+Handicap-emploi, une analyse causale de l'effet du handicap sur l'emploi et le salaire, à partir des données de l'Enquête Emploi en Continu de l'INSEE.
 
--Risques-psychosociaux-travail, une analyse des déterminants socio-économiques et professionnels de la détresse psychologique au travail, à partir de l'enquête Conditions de Travail et Risques Psychosociaux (DARES, INSEE).
+Risques-psychosociaux-travail, une analyse des déterminants socio-économiques et professionnels de la détresse psychologique au travail, à partir de l'enquête Conditions de Travail et Risques Psychosociaux (DARES, INSEE).
+
+Deserts-Medicaux, une analyse spatiale des déserts médicaux et du niveau de vie en France, à partir des données DREES et INSEE, mobilisant l'autocorrélation spatiale, un modèle d'erreur spatiale (SEM) et la cartographie des clusters LISA.
 
 **Me contacter**
 
