@@ -13,5 +13,6 @@ R, Python, SQL, méthodes causales (différence en différences, appariement exa
 -Risques-psychosociaux-travail, une analyse des déterminants socio-économiques et professionnels de la détresse psychologique au travail, à partir de l'enquête Conditions de Travail et Risques Psychosociaux (DARES, INSEE).
 
 **Me contacter**
+
 mokokoglorian@gmail.com
-0658641620
+0621021727
