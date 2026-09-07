@@ -10,6 +10,8 @@ R, Python, SQL, méthodes causales (différence en différences, appariement exa
 
 Handicap-emploi, une analyse causale de l'effet du handicap sur l'emploi et le salaire, à partir des données de l'Enquête Emploi en Continu de l'INSEE.
 
+Open-medic, une analyse de la consommation de médicaments remboursés en France en SQL, classements et taux de générique par région à partir des données Open Medic (CNAM)
+
 Risques-psychosociaux-travail, une analyse des déterminants socio-économiques et professionnels de la détresse psychologique au travail, à partir de l'enquête Conditions de Travail et Risques Psychosociaux (DARES, INSEE).
 
 Deserts-Medicaux, une analyse spatiale des déserts médicaux et du niveau de vie en France, à partir des données DREES et INSEE, mobilisant l'autocorrélation spatiale, un modèle d'erreur spatiale (SEM) et la cartographie des clusters LISA.
