@@ -3,10 +3,10 @@
 
 Economiste spécialisé en économie de la santé, je construis un profil à l’intersection de la data, des méthodes quantitatives et de l’évaluation des politiques publiques. En parallèle, je construis des projets personnels qui vont du nettoyage de données brutes jusqu'à l'évaluation causale de politiques publiques (santé, emploi, social), avec un objectif simple : produire des résultats exploitables pour la décision, pas seulement des modèles.
 
-#Stack
+# Stack
 R, Python, SQL, méthodes causales (différence en différences, appariement exact grossier, event study).
 
-#Projets
+# Projets
 
 Handicap-emploi, une analyse causale de l'effet du handicap sur l'emploi et le salaire, à partir des données de l'Enquête Emploi en Continu de l'INSEE.
 
